@@ -12,4 +12,4 @@
   -check for errors in syntax tree  
     -like undeclared variables, repeated declarations, whether integer of index, wrong operators ...
   -check the type and convert it if needed
-  -
+  
